@@ -22,7 +22,7 @@
 .container .week {
     width: 75%;
     flex-wrap: wrap;
-}
+} 
 
 .container .week .item{
     width: 20%;
